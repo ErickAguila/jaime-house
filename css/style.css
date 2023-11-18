@@ -11079,7 +11079,7 @@ html.rd-navbar-fixed-linked .page {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding: 30px 0 40px;
+	padding: 20px 0 30px;
 }
 
 .rd-navbar-corporate.rd-navbar-static .rd-navbar-main-outer {
@@ -17784,4 +17784,10 @@ html[data-x-mode]:not(.lt-ie10) .not-animated {
 
 .img3-opaco {
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/cabanias/img10.jpeg");
+}
+
+#button-whatsapp {
+	position: fixed;
+   	bottom: 100px;
+   	right:30px;
 }
